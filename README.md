@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my final year project.
 - 🌱 I’m currently learning Fullstack and Machine Learning.
 - 👯 I’m looking to collaborate with other content creators.
-- ⚡ Fun fact: I love reading books and watching movies.
+- ⚡ I love reading books and watching movies.
 
 ### Connect with me:
 
